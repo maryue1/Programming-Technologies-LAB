@@ -6,5 +6,5 @@
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| MG                      | `{f061e837-6176-43a8-88cc-2ecae45d1658}` |
-| Maria Golinska          | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Wojciech Krasnowski     | `{643b5fbb-6ffc-4b31-9fe5-4a0cab603177}` |
+| Maria Golinska          | `{f7abae5a-55ad-40d1-a8f5-5853f6fa0687}` |
